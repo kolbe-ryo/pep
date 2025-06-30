@@ -32,18 +32,6 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-
-
-{% tabs %}
-{% tab title="First Tab" %}
-test
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
-
 |      |   |   |
 | ---- | - | - |
 | test |   |   |
