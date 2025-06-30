@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 This is Kolbe's Project at latest change](README.md)
+* [👋 This is Kolbe's Project at right change](README.md)
 
 ## Overview
 
