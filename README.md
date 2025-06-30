@@ -1,4 +1,4 @@
-# 👋 This is Kolbe's Project at latest change
+# 👋 This is Kolbe's Project at right change
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
@@ -32,12 +32,30 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+test
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+|      |   |   |
+| ---- | - | - |
+| test |   |   |
+|      |   |   |
+|      |   |   |
 
 {% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
 [setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
