@@ -32,11 +32,11 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-|      |   |   |
-| ---- | - | - |
-| test |   |   |
-|      |   |   |
-|      |   |   |
+| cloumn1 |   |   |
+| ------- | - | - |
+| test    |   |   |
+|         |   |   |
+|         |   |   |
 
 {% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
 [setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
